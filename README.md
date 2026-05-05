@@ -12,13 +12,15 @@
 Where Anaconda meets the ecosystem — in code you can actually run
  
 ### The open playground where Anaconda meets the ecosystem.
+
+*Demos you can run. Boilerplate you can ship. Experiments worth stealing.*
  
 [![Repos](https://img.shields.io/badge/repos-growing-44A57C?style=flat-square)](https://github.com/orgs/Anaconda-Labs/repositories)
 [![License](https://img.shields.io/badge/license-MIT-44A57C?style=flat-square)](LICENSE)
 [![Community](https://img.shields.io/badge/community-join%20us-44A57C?style=flat-square)](https://community.anaconda.com)
 [![Docs](https://img.shields.io/badge/docs-anaconda.com-44A57C?style=flat-square)](https://docs.anaconda.com)
 
-*Demos you can run. Boilerplate you can ship. Experiments worth stealing.*
+⭐ **If something here saves you time, drop a star on the repo — it helps more developers find it.**
 </div>
 
 ## 🔥 Featured
