@@ -1,26 +1,24 @@
 <pre role="img" aria-label="Anaconda Labs">
-           ██████╗ ███╗   ██╗ █████╗  ██████╗ ██████╗ ███╗   ██╗██████╗  █████╗ 
-          ██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔═══██╗████╗  ██║██╔══██╗██╔══██╗
-          ███████║██╔██╗ ██║███████║██║     ██║   ██║██╔██╗ ██║██║  ██║███████║
-          ██╔══██║██║╚██╗██║██╔══██║██║     ██║   ██║██║╚██╗██║██║  ██║██╔══██║
-          ██║  ██║██║ ╚████║██║  ██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║
-          ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
-                                              L  A  B  S  🐍
+                           ██████╗ ███╗   ██╗ █████╗  ██████╗ ██████╗ ███╗   ██╗██████╗  █████╗ 
+                          ██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔═══██╗████╗  ██║██╔══██╗██╔══██╗
+                          ███████║██╔██╗ ██║███████║██║     ██║   ██║██╔██╗ ██║██║  ██║███████║
+                          ██╔══██║██║╚██╗██║██╔══██║██║     ██║   ██║██║╚██╗██║██║  ██║██╔══██║
+                          ██║  ██║██║ ╚████║██║  ██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║
+                          ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
+                                                      L  A  B  S  🐍
 </pre>
  
  <div align="center">
-Where Anaconda meets the ecosystem — in code you can actually run
- 
-### The open playground where Anaconda meets the ecosystem.
+Where Anaconda meets the ecosystem.
 
 *Demos you can run. Boilerplate you can ship. Experiments worth stealing.*
  
 [![Repos](https://img.shields.io/badge/repos-growing-44A57C?style=flat-square)](https://github.com/orgs/Anaconda-Labs/repositories)
 [![License](https://img.shields.io/badge/license-MIT-44A57C?style=flat-square)](LICENSE)
-[![Community](https://img.shields.io/badge/community-join%20us-44A57C?style=flat-square)](https://community.anaconda.com)
+[![Community](https://img.shields.io/badge/community-join%20us-44A57C?style=flat-square)](https://forum.anaconda.com/)
 [![Docs](https://img.shields.io/badge/docs-anaconda.com-44A57C?style=flat-square)](https://docs.anaconda.com)
 
-⭐ **If something here saves you time, drop a star on the repo — it helps more developers find it.**
+⭐ **If something here saves you time, drop a star on the repo.**
 </div>
 
 ## 🔥 Featured
@@ -29,7 +27,7 @@ Where Anaconda meets the ecosystem — in code you can actually run
  
 > Let your AI assistant talk directly to your data science stack.
  
-The **Anaconda MCP Server** + Claude Desktop — manage conda environments, run package queries, and build AI-native data science workflows. A fully working demo, not a slideware promise.
+Combine **Anaconda MCP Server** with Claude Desktop to manage conda environments, run package queries, and build AI-native data science workflows. A fully working demo, not a slideware promise.
  
 ```bash
 git clone https://github.com/Anaconda-Labs/anaconda-mcp-claude-desktop-demo
@@ -37,11 +35,10 @@ git clone https://github.com/Anaconda-Labs/anaconda-mcp-claude-desktop-demo
 ---
 ## What lives here
  
-- 🧪 **Demos** — real capabilities, end to end
-- 🏗️ **Boilerplate** — fork it, ship it
-- 🔌 **Integrations** — Anaconda + the tools you already use
-- 🧰 **Helpers** — scripts that solve actual problems
-**Ground rule:** if it doesn't run, it doesn't ship.
+- 🧪 **Demos**: real capabilities, end to end
+- 🏗️ **Boilerplate**: fork it, ship it
+- 🔌 **Integrations**: Anaconda + the tools you already use
+- 🧰 **Helpers**: scripts that solve actual problems   
  
 ---
 
@@ -57,9 +54,9 @@ conda · Anaconda MCP · Anaconda.org · MetaFlow · PyScript · BeeWare · Numb
  
 ## Get involved
  
-Found a gap? Have a demo worth sharing? Open an issue — we review everything and move fast.
+Found a gap? Let us know!
  
-[community.anaconda.com](https://community.anaconda.com) · [docs.anaconda.com](https://docs.anaconda.com) · [@anacondainc](https://x.com/anacondainc)
+[forum.anaconda.com](https://forum.anaconda.com/) · [docs.anaconda.com](https://docs.anaconda.com) · [@anacondainc](https://x.com/anacondainc)
  
 ---
 
